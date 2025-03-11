@@ -18,7 +18,6 @@ interface BasicInfo {
   location: string;
   summary: string;
   profileImage: string;
-  backgroundImage: string;
   socialMedia: SocialMedia[];
   website?: string; // Optional website property
 }
