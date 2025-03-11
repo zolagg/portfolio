@@ -1,0 +1,150 @@
+{
+  "basics": {
+    "name": "Benjamin Brajon",
+    "title": "Front-end Developer",
+    "email": "benjaminbrajon1@gmail.com",
+    "phone": "06 76 14 74 43",
+    "location": "5bis rue d'Ypres, 0100 Bourg-en-Bresse, France",
+    "summary": "I'm a dedicated student, ready to put in the effort in order to achieve my goals. I have a great discipline in the tasks assigned to me and always pay attention. I'm also able to make suggestions and enjoy working as part of a team. I'm comfortable in communication with large groups of people.",
+    "profileImage": "/images/profile.jpg",
+    "backgroundImage": "/images/background.jpg",
+    "socialMedia": []
+  },
+  "skills": {
+    "frontend": [
+      { "name": "HTML", "level": 90 },
+      { "name": "CSS", "level": 80 },
+      { "name": "Next.js", "level": 80 },
+      { "name": "JavaScript", "level": 75 },
+      { "name": "React", "level": 60 },
+      { "name": "Angular", "level": 60 }
+
+    ],
+    "backend": [],
+    "tools": [
+      { "name": "VSCode", "level": 90 },
+      { "name": "Office Suite", "level": 70 }
+    ],
+    "programming": [
+      { "name": "Typescript", "level": 75 },
+      { "name": "Java", "level": 60 },
+      { "name": "C++", "level": 30 }
+    ],
+    "languages": [
+      { "name": "English", "level": 90 }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Université Lyon 1",
+      "degree": "BUT in Computer Science",
+      "start": "2022",
+      "end": "Present",
+      "description": "Currently a second-year computer science student in a bachelor at Lyon 1 University on the Bourg-en-Bresse campus"
+    },
+    {
+      "institution": "Tassin-la-Demi-Lune (69)",
+      "degree": "Baccalauréat",
+      "start": "2022",
+      "end": "2022",
+      "description": "Secondary school final exam (2022), European section, Cinema option"
+    }
+  ],
+  "experience": [
+    {
+      "company": "University Projects",
+      "position": "Front-end Developer",
+      "location": "Université Lyon 1",
+      "start": "2023",
+      "end": "Present",
+      "description": "Online boardgame development project",
+      "highlights": [
+        "Developing the online version of 'The Crew' (boardgame)",
+        "Front-end, web app, Back-end, Socket.io, Angular",
+        "1-year project"
+      ]
+    },
+    {
+      "company": "University Projects",
+      "position": "Web Developer",
+      "location": "Université Lyon 1",
+      "start": "2022",
+      "end": "2022",
+      "description": "Showcase website development",
+      "highlights": [
+        "Developed a showcase website in a team of 3 in 3 weeks",
+        "Created a website from scratch (including style guide and brand conception)",
+        "Used HTML and CSS"
+      ]
+    },
+    {
+      "company": "Personal Project",
+      "position": "Front-end Developer",
+      "location": "Remote",
+      "start": "2023",
+      "end": "2023",
+      "description": "GYM Website Development",
+      "highlights": [
+        "Started to develop a website for a GYM with two friends",
+        "Responsible for the style guide and the digital mockup",
+        "Contributing to front-end development"
+      ]
+    },
+    {
+      "company": "McDonald's",
+      "position": "Crew Member",
+      "location": "France",
+      "start": "2023",
+      "end": "2023",
+      "description": "Worked as a polyvalent crew member for McDonald's"
+    },
+    {
+      "company": "IUT's Student Association",
+      "position": "Communication Administrator",
+      "location": "France",
+      "start": "2023",
+      "end": "2023",
+      "description": "Communication administrator for the IUT's student association"
+    },
+    {
+      "company": "Seasonal Work",
+      "position": "Grape Picker",
+      "location": "France",
+      "start": "2022",
+      "end": "2022",
+      "description": "Worked as a grape picker for several days"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Online Boardgame",
+      "description": "Developing the online version of 'The Crew' (boardgame) using Angular, including front-end, web app, back-end, and Socket.io implementation.",
+      "technologies": ["HTML", "CSS", "Angular", "Socket.io"],
+      "image": "/images/projects/boardgame.jpg"
+    },
+    {
+      "title": "Showcase Website",
+      "description": "Developed a showcase website in a team of 3 in 3 weeks, creating a website from scratch including style guide and brand conception.",
+      "technologies": ["HTML", "CSS"],
+      "image": "/images/projects/showcase.jpg"
+    },
+    {
+      "title": "GYM Website",
+      "description": "Started developing a website for a GYM with two friends. Responsible for the style guide and digital mockup as well as part of the front-end development.",
+      "technologies": ["HTML", "CSS"],
+      "image": "/images/projects/gym.jpg"
+    }
+  ],
+  "interests": [
+    "Computer Science",
+    "Coding",
+    "Problem Solving",
+    "Sports (fencing, football, archery, parkour, bodybuilding)",
+    "Trying and discovering new sports"
+  ],
+  "languages": [
+    { "language": "French", "fluency": "Native" },
+    { "language": "English", "fluency": "Proficient/Fluent" },
+    { "language": "Spanish", "fluency": "Basic knowledge" }
+  ]
+} 
