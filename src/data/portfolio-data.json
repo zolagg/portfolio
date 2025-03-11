@@ -35,83 +35,33 @@
   },
   "education": [
     {
-      "institution": "Université Lyon 1",
+      "institution": "Université Lyon 1, Bourg-en-Bresse, France",
       "degree": "BUT in Computer Science",
       "start": "2022",
       "end": "Present",
       "description": "Currently a second-year computer science student in a bachelor at Lyon 1 University on the Bourg-en-Bresse campus"
     },
     {
-      "institution": "Tassin-la-Demi-Lune (69)",
+      "institution": "Tassin-la-Demi-Lune (69), France",
       "degree": "Baccalauréat",
-      "start": "2022",
+      "start": "2019",
       "end": "2022",
       "description": "Secondary school final exam (2022), European section, Cinema option"
     }
   ],
   "experience": [
     {
-      "company": "University Projects",
-      "position": "Front-end Developer",
-      "location": "Université Lyon 1",
-      "start": "2023",
+      "company": "Euronews",
+      "position": "Apprentice Fulllstack Web Developer",
+      "location": "Lyon, France",
+      "start": "2024",
       "end": "Present",
-      "description": "Online boardgame development project",
+      "description": "Apprentice in a 1 year program completing a Bachelor of Technology in Computer Science",
       "highlights": [
-        "Developing the online version of 'The Crew' (boardgame)",
-        "Front-end, web app, Back-end, Socket.io, Angular",
-        "1-year project"
+        "Taking part in the development of the Euronews internal website for the editorial team",
+        "Usage of native Typescript and Angular",
+        "Creating of a database migration tool"
       ]
-    },
-    {
-      "company": "University Projects",
-      "position": "Web Developer",
-      "location": "Université Lyon 1",
-      "start": "2022",
-      "end": "2022",
-      "description": "Showcase website development",
-      "highlights": [
-        "Developed a showcase website in a team of 3 in 3 weeks",
-        "Created a website from scratch (including style guide and brand conception)",
-        "Used HTML and CSS"
-      ]
-    },
-    {
-      "company": "Personal Project",
-      "position": "Front-end Developer",
-      "location": "Remote",
-      "start": "2023",
-      "end": "2023",
-      "description": "GYM Website Development",
-      "highlights": [
-        "Started to develop a website for a GYM with two friends",
-        "Responsible for the style guide and the digital mockup",
-        "Contributing to front-end development"
-      ]
-    },
-    {
-      "company": "McDonald's",
-      "position": "Crew Member",
-      "location": "France",
-      "start": "2023",
-      "end": "2023",
-      "description": "Worked as a polyvalent crew member for McDonald's"
-    },
-    {
-      "company": "IUT's Student Association",
-      "position": "Communication Administrator",
-      "location": "France",
-      "start": "2023",
-      "end": "2023",
-      "description": "Communication administrator for the IUT's student association"
-    },
-    {
-      "company": "Seasonal Work",
-      "position": "Grape Picker",
-      "location": "France",
-      "start": "2022",
-      "end": "2022",
-      "description": "Worked as a grape picker for several days"
     }
   ],
   "projects": [
