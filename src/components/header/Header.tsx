@@ -1,6 +1,5 @@
 import Link from 'next/link';
 import { getBasicInfo } from '@/lib/data';
-import { Button } from '@/components/ui/button';
 import { MobileNav } from '@/components/header/MobileNav';
 import { cn } from '@/lib/utils';
 
@@ -53,13 +52,6 @@ export function Header() {
         </div>
         
         <div className="flex flex-1 items-center justify-between space-x-2 md:justify-end">
-          <div className="w-full flex-1 md:w-auto md:flex-none">
-            <div className="hidden lg:block">
-              <Button asChild variant="outline" size="sm">
-                <a href={`mailto:${basicInfo.email}`}>Contact Me</a>
-              </Button>
-            </div>
-          </div>
           
           <nav className="hidden md:flex items-center">
             {basicInfo.socialMedia.map((social) => (

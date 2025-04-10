@@ -1,6 +1,5 @@
 import Image from 'next/image';
 import { getBasicInfo } from '@/lib/data';
-import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import { HoverCard, HoverCardContent, HoverCardTrigger } from '@/components/ui/hover-card';
 
@@ -32,14 +31,6 @@ export function Hero() {
               {basicInfo.summary}
             </p>
             
-            <div className="flex flex-wrap gap-3">
-              <Button size="lg" className="rounded-full">
-                View My Work
-              </Button>
-              <Button variant="outline" size="lg" className="rounded-full">
-                Download CV
-              </Button>
-            </div>
             
             <div className="flex items-center gap-4 flex-wrap">
               <div className="flex items-center gap-1.5">

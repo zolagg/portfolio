@@ -1,4 +1,3 @@
-import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 
 export function About() {
@@ -29,14 +28,6 @@ export function About() {
             <p className="text-lg leading-relaxed">
               When I&apos;m not coding, you can find me exploring new technologies, contributing to open-source projects, or improving my UI/UX design skills.
             </p>
-            
-            <div className="flex flex-wrap gap-3 pt-2">
-              <Button asChild variant="outline">
-                <a href="/resume.pdf" target="_blank" rel="noopener noreferrer">
-                  View Full Resume
-                </a>
-              </Button>
-            </div>
           </div>
           
           <div className="bg-muted/30 p-8 rounded-lg space-y-6">

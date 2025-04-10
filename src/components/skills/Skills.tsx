@@ -36,9 +36,8 @@ export function Skills() {
         
         <Tabs defaultValue="frontend" className="w-full">
           <div className="flex justify-center mb-8">
-            <TabsList className="grid grid-cols-3 w-full max-w-md">
+            <TabsList className="grid grid-cols-2 w-full max-w-md">
               <TabsTrigger value="frontend">Frontend</TabsTrigger>
-              <TabsTrigger value="backend">Backend</TabsTrigger>
               <TabsTrigger value="tools">Tools</TabsTrigger>
             </TabsList>
           </div>
@@ -46,14 +45,6 @@ export function Skills() {
           <TabsContent value="frontend" className="space-y-6">
             <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
               {skills.frontend.map((skill) => (
-                <SkillCard key={skill.name} name={skill.name} level={skill.level} />
-              ))}
-            </div>
-          </TabsContent>
-          
-          <TabsContent value="backend" className="space-y-6">
-            <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-              {skills.backend.map((skill) => (
                 <SkillCard key={skill.name} name={skill.name} level={skill.level} />
               ))}
             </div>

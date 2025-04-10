@@ -6,8 +6,17 @@
     "phone": "06 76 14 74 43",
     "location": "Bourg-en-Bresse, France",
     "summary": "I'm a dedicated student, ready to put in the effort in order to achieve my goals. I have a great discipline in the tasks assigned to me and always pay attention. I'm also able to make suggestions and enjoy working as part of a team. I'm comfortable in communication with large groups of people.",
-    "profileImage": "/images/projects/profile.jpg",
-    "socialMedia": []
+    "profileImage": "/images/projects/profile.png",
+    "socialMedia": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://www.linkedin.com/in/benjamin-brajon-3bb8412a2/"
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/zolagg"
+      }
+    ]
   },
   "skills": {
     "frontend": [
@@ -68,20 +77,23 @@
     {
       "title": "Online Boardgame",
       "description": "Developing the online version of 'The Crew' (boardgame) using Angular, including front-end, web app, back-end, and Socket.io implementation.",
-      "technologies": ["HTML", "CSS", "Angular", "Socket.io"],
-      "image": "/images/projects/boardgame.jpg"
+      "technologies": ["Angular", "Socket.io"],
+      "image": "/images/projects/theCrew.jpg",
+      "link": "https://iutbg-gitlab.iutbourg.univ-lyon1.fr/2023-2024-sae-but2/thecrew"
     },
     {
-      "title": "Showcase Website",
-      "description": "Developed a showcase website in a team of 3 in 3 weeks, creating a website from scratch including style guide and brand conception.",
-      "technologies": ["HTML", "CSS"],
-      "image": "/images/projects/showcase.jpg"
+      "title": "Online Chess Game",
+      "description": "University project developing an online chess game using HTML, CSS and Typescript using VueJs framework.",
+      "technologies": ["Typescript", "VueJs"],
+      "image": "/images/projects/chessBoard.png",
+      "link": "https://github.com/zolagg/chess-game-v2"
     },
     {
-      "title": "GYM Website",
-      "description": "Started developing a website for a GYM with two friends. Responsible for the style guide and digital mockup as well as part of the front-end development.",
-      "technologies": ["HTML", "CSS"],
-      "image": "/images/projects/gym.jpg"
+      "title": "Estivales de Brou",
+      "description": "Recreated the Estivales de Brou website using NextJs",
+      "technologies": ["NextJs", "Typescript"],
+      "image": "/images/projects/EDB.jpg",
+      "link": "https://iutbg-gitlab.iutbourg.univ-lyon1.fr/sae-but31/2024-25-web/estivales-brou"
     }
   ],
   "interests": [
